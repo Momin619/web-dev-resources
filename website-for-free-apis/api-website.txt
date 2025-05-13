@@ -1,0 +1,21 @@
+# Website Description: Free Public APIs
+# URL: https://www.freepublicapis.com/
+# Last updated: 2025-05-13
+
+FreePublicAPIs.com is a directory of free and publicly available APIs across various categories.
+
+The website provides a searchable and categorized list of APIs that developers can use in their projects 
+without needing to pay or sign up in most cases.
+
+Key Features:
+- Browse APIs by categories such as Weather, Finance, Games, News, and more.
+- View API details like authentication requirements, HTTPS support, and CORS policy.
+- Direct links to API documentation for quick access.
+- A fast and clean interface to discover useful APIs easily.
+
+Use Case:
+Ideal for developers, students, and hobbyists who are looking for free APIs to experiment with,
+integrate into apps, or use for learning and prototyping.
+
+Note:
+No login required to use the site or browse APIs. The site simply curates public API data and presents it in an organized way.

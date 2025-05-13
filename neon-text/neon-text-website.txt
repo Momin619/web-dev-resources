@@ -1,0 +1,26 @@
+# Website Description: Neon Text Generator
+# URL: https://yaroslavweb.github.io/Neon-Generator/
+# Last updated: 2025-05-13
+
+Neon Text Generator is a simple, interactive web tool that lets users create stylish neon-styled text.
+
+The site allows users to customize text appearance with vibrant glowing effects, simulating real neon light designs.
+It's great for creating headings, banners, or aesthetic visuals for personal or creative projects.
+
+Key Features:
+- Real-time preview of neon text
+- Easy customization of:
+  - Text content
+  - Font size and weight
+  - Neon color
+  - Background color
+  - Glow intensity and blur
+- Instant visual feedback as settings are changed
+- Option to copy the generated CSS code for use in your own websites or designs
+
+Use Case:
+Perfect for designers, developers, or content creators who want to add an eye-catching neon effect to their text 
+without writing CSS manually.
+
+Note:
+No login or signup required. Free and open to everyone. Works entirely in the browser.
