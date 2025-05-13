@@ -1,0 +1,56 @@
+1.  Auto Complete Tag
+🔧 Automatically adds closing HTML/XML tags as you type the opening tag.
+
+2.  Code Snap
+📸 Create beautiful screenshots of your code to share on social media or in documentation.
+
+3.  HTML End Tag Labels
+🏷️ Shows labels at the end of long HTML elements to make code easier to navigate.
+
+4.  Live Server
+🌐 Launch a local development server with live reload for static & dynamic pages.
+
+5.  Material Icon Theme
+🎨 Changes the default file/folder icons in VS Code to stylish Material Design icons.
+
+6.  Prettier - Code formatter
+✨ Automatically formats your code for consistency in styling across your files.
+ 
+7.  sketch-pad
+✍️ A simple drawing/sketching tool within VS Code—useful for quick notes or ideas.
+
+8.  Tokyo Night
+🌃 A popular, elegant dark theme inspired by the Tokyo night skyline.
+
+9.  vscode-pdf
+📄 Allows you to view PDF files directly within VS Code tabs.
+
+10.  Import Cost
+📦 Displays the size of imported packages inline, helping you manage bundle size.
+
+11.  Windsurf Plugin (formerly Codeium)
+🤖 AI-powered autocomplete for faster and smarter coding suggestions.
+
+12.  HTML CSS Support
+🧩 Adds CSS IntelliSense to your HTML files (like class suggestions from linked CSS).
+
+13.  Code Spell Checker
+🔍 Detects spelling errors in your comments, strings, and plain text inside code files.
+
+14.  Thunder Client
+⚡ Lightweight Postman alternative for testing APIs directly in VS Code.
+
+15.  Color Highlight
+🎨 Highlights color codes like #ff0000, rgb(), or hsl() with their actual color.
+
+16.  Colorful Comments
+🗨️ Highlights comments in different colors based on tags like TODO, FIXME, etc.
+
+17.  Bracket Pair Colorization Toggler
+🧩 Enables/disables bracket colorization, making nested code easier to read.
+
+18.  ESLint
+🧹 Automatically detects and fixes linting issues in JavaScript/TypeScript code.
+
+19.  HTML/CSS/JavaScript Snippets
+⚙️ Provides shorthand code snippets for faster HTML, CSS, and JavaScript development.
