@@ -1,0 +1,17 @@
+
+Website: Unsplash (https://unsplash.com/)
+
+Description:
+Unsplash is a popular platform that offers high-resolution, royalty-free images shared by a vibrant community of photographers. Users can explore a wide range of categories including nature, architecture, technology, people, and more. The platform allows easy downloading and use of photos for personal or commercial projects without the need for permission or attribution, although credit to the photographer is appreciated.
+
+Key Features:
+- Free high-quality photos contributed by photographers around the world.
+- Easy-to-navigate interface with powerful search functionality.
+- Categories and collections for browsing specific types of content.
+- Option to create an account and curate collections or upload your own images.
+- API access for developers to integrate Unsplash images into their apps and websites.
+
+Use Cases:
+- Bloggers and content creators looking for visual assets.
+- Designers and marketers needing professional imagery.
+- Developers integrating images via the Unsplash API.
