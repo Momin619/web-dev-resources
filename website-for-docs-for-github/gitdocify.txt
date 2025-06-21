@@ -1,0 +1,26 @@
+Website: Unsplash (https://gitdocify.com/)
+
+GitDocify - Developer Resource Collection
+
+GitDocify is a personal repository where I collect and organize useful development resources in a structured way. This folder acts as a digital knowledge base, helping me quickly revisit important tools, APIs, frameworks, techniques, and best practices I’ve come across in my journey as a developer.
+
+📁 What’s Inside:
+- Hand-picked documentation links
+- Cheat sheets for languages and tools
+- Setup guides for popular stacks and libraries
+- Code snippets and reusable patterns
+- Tips and shortcuts to boost productivity
+- Self-written notes and curated tutorials
+
+💡 Purpose:
+The goal of GitDocify is to create a centralized, offline-accessible source of practical and verified information that can be referred to anytime—especially during development, debugging, or learning new tech.
+
+🛠 Ideal For:
+- Beginners seeking reference material
+- Intermediate devs brushing up on forgotten concepts
+- Quick setup and command recall
+- Offline learning sessions
+
+Feel free to expand it with your own insights, docs, or helpful web snippets. Keep it simple. Keep it useful.
+
+— GitDocify: Document what you discover.
