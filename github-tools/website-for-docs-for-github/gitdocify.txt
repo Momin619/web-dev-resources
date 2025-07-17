@@ -1,4 +1,4 @@
-Website: Unsplash (https://gitdocify.com/)
+Website: GitDocify (https://gitdocify.com/)
 
 GitDocify - Developer Resource Collection
 
@@ -22,5 +22,15 @@ The goal of GitDocify is to create a centralized, offline-accessible source of p
 - Offline learning sessions
 
 Feel free to expand it with your own insights, docs, or helpful web snippets. Keep it simple. Keep it useful.
+
+✅ How to Use:
+
+Just change:
+https://github.com/your-username/your-repo
+
+to:
+
+https://gitdocify.com/your-username/your-repo
+
 
 — GitDocify: Document what you discover.
