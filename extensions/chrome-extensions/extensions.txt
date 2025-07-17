@@ -26,7 +26,7 @@ Description: A powerful eyedropper and color picker extension. Grab colors from 
 - Great for designers and front-end devs
 
 🔎 JSON Formatter  
-Link: https://chrome.google.com/webstore/detail/json-formatter/cbhkjalpdcelhbhnkdhdffnblhudnklb  
+Link: https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en  
 Description: Makes raw JSON readable by formatting it with syntax highlighting and collapsible trees.  
 - Expand/collapse JSON structures  
 - Syntax highlighting for clarity  
