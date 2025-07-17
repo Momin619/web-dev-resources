@@ -1,0 +1,38 @@
+🧩 Essential Browser Extensions for Web Developers
+
+A hand-picked collection of must-have browser extensions to boost productivity, improve debugging, and simplify development workflows.
+
+🔍 React Developer Tools  
+Link: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi  
+Description: Inspect and debug React component trees right in your browser. See props, state, and hooks in real-time while developing React apps.  
+- View component hierarchy  
+- Inspect props and state  
+- See useEffect and other hooks  
+- Great for React, Next.js, and other React-based projects
+
+🧪 Fake Filler  
+Link: https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo  
+Description: Automatically fills all form fields on a page with dummy data—perfect for testing forms quickly.  
+- Supports name, email, phone, etc.  
+- Saves time when testing large forms  
+- Can be toggled for secure environments
+
+🎨 ColorZilla  
+Link: https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp  
+Description: A powerful eyedropper and color picker extension. Grab colors from any webpage or element instantly.  
+- Pick colors from pages  
+- Copy as HEX, RGB, etc.  
+- View color history  
+- Great for designers and front-end devs
+
+🔎 JSON Formatter  
+Link: https://chrome.google.com/webstore/detail/json-formatter/cbhkjalpdcelhbhnkdhdffnblhudnklb  
+Description: Makes raw JSON readable by formatting it with syntax highlighting and collapsible trees.  
+- Expand/collapse JSON structures  
+- Syntax highlighting for clarity  
+- Makes API testing easier
+
+✅ Tip:  
+Install these on Chrome, Brave, or any Chromium-based browser for best compatibility. They significantly improve development speed and debugging accuracy.
+
+📦 Keep your dev browser sharp — one extension at a time.
