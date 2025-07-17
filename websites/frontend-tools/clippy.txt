@@ -1,10 +1,10 @@
 ✂️ Clippy — CSS `clip-path` Shape Generator
 
-**Website:** (https://bennettfeely.com/clippy/)
+Website: (https://bennettfeely.com/clippy/)
 
 🎯 What is Clippy?
 
-**Clippy** is a web-based tool by **Bennett Feely** that allows you to visually create complex CSS `clip-path` shapes. It’s a super useful utility for front-end developers who want to design non-rectangular elements like blobs, polygons, and custom UI components—without writing raw `clip-path` values manually.
+Clippy is a web-based tool by Bennett Feely that allows you to visually create complex CSS `clip-path` shapes. It’s a super useful utility for front-end developers who want to design non-rectangular elements like blobs, polygons, and custom UI components—without writing raw `clip-path` values manually.
 
 🛠 Features:
 - 🟢 Live shape preview and adjustment
