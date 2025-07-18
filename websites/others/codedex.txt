@@ -1,0 +1,42 @@
+🌐 Website: Codedex
+🔗 https://www.codedex.io
+
+🧙‍♂️ Codedex – Gamified Coding Platform for Beginners
+Codedex is an interactive, beginner-friendly platform that teaches coding through fun, gamified lessons. Inspired by RPG games and fantasy worlds, Codedex transforms your learning journey into an adventure—making programming feel like leveling up a character in a game.
+
+📁 What You Can Do:
+
+Learn Python, HTML, CSS, JavaScript, and more
+
+Complete quests, earn XP, and unlock achievements
+
+Practice coding directly in the browser
+
+Track progress through personalized dashboards
+
+Join a supportive, gamified learning community
+
+💡 Purpose:
+Codedex makes coding accessible and exciting by combining education with storytelling and gamification—perfect for students, hobbyists, and visual learners who find traditional tutorials dull.
+
+🛠 Ideal For:
+
+Absolute beginners starting their coding journey
+
+Teens and young adults who enjoy game-like learning
+
+Self-learners looking for a fun, structured path
+
+Teachers and mentors introducing code in a playful way
+
+✅ How to Use:
+
+Visit Codedex.io
+
+Sign up and choose your coding quest
+
+Follow guided lessons and interactive challenges
+
+Track your progress, level up, and collect rewards
+
+✨ Codedex: Learn to code. Embark on a quest. Become a coding wizard.
