@@ -1,0 +1,25 @@
+🧠 JavaScript Console Methods Cheat Sheet
+
+If you're only using console.log, you're missing out on powerful debugging tools! This handy reference chart introduces 10 useful console methods beyond just logging messages:
+
+🔧 Method	💡 Use Case	💻 Example
+
+console.log()	Basic logging	console.log("Hello")
+
+console.error()	Show errors in red	console.error("Error!")
+
+console.warn()	Warnings with yellow highlight	console.warn("Be careful!")
+
+console.table()	Display arrays/objects in table format 📊	console.table(users)
+
+console.time()/timeEnd()	Measure time taken ⏱	console.time("load")
+
+console.trace()	Show the function call stack 🔍	console.trace()
+
+console.group()/groupEnd()	Group related logs together 👥	console.group("User logs")
+
+console.clear()	Clear the console screen 🧼	console.clear()
+
+console.count()	Count how many times a function runs 🔁	console.count("Click")
+
+console.assert()	Log only if a condition is false ❗	console.assert(2 > 3, "Fail")

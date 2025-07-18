@@ -1,0 +1,45 @@
+🌐 Website: PatternPad
+🔗 https://patternpad.com
+
+🎨 PatternPad – Design Patterns Made Easy
+PatternPad is a creative web-based tool that lets designers and developers easily generate seamless background patterns for web projects, presentations, or UI mockups. With a clean interface and intuitive controls, PatternPad helps you create, customize, and export SVG-based patterns in seconds—no design software required.
+
+📁 What You Can Do:
+
+Create custom repeating patterns in real time
+
+Tweak color schemes, shapes, and grid layouts
+
+Export patterns as scalable SVG files
+
+Instantly preview pattern responsiveness
+
+Save and reuse your favorite designs
+
+💡 Purpose:
+PatternPad empowers developers, designers, and hobbyists to enhance their UI/UX with lightweight, aesthetically pleasing backgrounds—without relying on heavy image files or pre-made stock patterns.
+
+🛠 Ideal For:
+
+Web developers adding texture to designs
+
+UI/UX designers exploring creative backgrounds
+
+Graphic artists prototyping layouts
+
+Anyone who wants custom SVG patterns fast
+
+✅ How to Use:
+
+Visit PatternPad
+
+Choose a pattern template or start from scratch
+
+Customize colors, shapes, sizes, and spacing
+
+Preview live changes
+
+Download your SVG and use it anywhere
+
+✨ PatternPad: Design it once. Repeat it perfectly.
+

@@ -1,0 +1,46 @@
+🌐 Website: GSAP (GreenSock Animation Platform)
+🔗 https://gsap.com
+
+⚡ GSAP – High-Performance JavaScript Animation Engine
+GSAP (GreenSock Animation Platform) is a powerful and professional-grade JavaScript library for building high-performance, smooth, and visually stunning animations on the web. Trusted by major brands and developers worldwide, GSAP makes complex animations easy, fast, and reliable across all modern browsers.
+
+📁 What You Can Do:
+
+Animate any DOM element, SVG, canvas, or WebGL
+
+Create scroll-triggered animations
+
+Build complex timelines and sequences
+
+Chain animations with precise control and callbacks
+
+Use with React, Vue, and other frameworks
+
+Extend functionality with plugins (ScrollTrigger, Draggable, MotionPath, etc.)
+
+💡 Purpose:
+GSAP enables developers and designers to craft immersive, high-performance user experiences with animation—without struggling with inconsistent browser behavior or bloated animation libraries.
+
+🛠 Ideal For:
+
+Web developers and designers creating interactive UIs
+
+Front-end engineers building storytelling websites
+
+Motion designers implementing precise animations
+
+Creative coders and agencies delivering pixel-perfect effects
+
+✅ How to Use:
+
+Visit gsap.com
+
+Install via npm (npm install gsap) or use via CDN
+
+Import GSAP and animate elements with simple syntax:
+
+gsap.to(".box", { x: 200, duration: 1 });
+
+Explore the extensive docs and plugin ecosystem
+
+✨ GSAP: Animate anything, control everything—professionally and with ease.
