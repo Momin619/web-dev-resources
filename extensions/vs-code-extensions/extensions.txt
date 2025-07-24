@@ -54,3 +54,15 @@
 
 19.  HTML/CSS/JavaScript Snippets
 ⚙️ Provides shorthand code snippets for faster HTML, CSS, and JavaScript development.
+
+20. JSON Crack 
+✨ This is one of the most underrated VS Code extensions out there 🔥
+
+It lets you visualize any JSON file in a beautiful, interactive graph, making it way easier to understand complex data structures.
+
+No more scrolling through messy nested objects!
+
+Perfect for:
+- Debugging APIs
+- Understanding large datasets
+- Working with config files
