@@ -1,0 +1,3 @@
+RapidAPI is a platform where developers can find, connect to, and manage thousands of APIs (Application Programming Interfaces) from one place. You can search for APIs by category, test them directly in-browser, view usage statistics, and integrate them into your applications easily.
+
+URL: https://rapidapi.com/

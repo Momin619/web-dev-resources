@@ -67,7 +67,7 @@ ________________________________________________________________
 
 11. console.log({ variable })
     - Prints in the format { variable: value }
-    - Example:
+    - Example
         let age = 17
         console.log({ age })
     - Output:
