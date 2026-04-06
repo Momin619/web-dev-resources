@@ -1,0 +1,46 @@
+🌐 Website: AOS (Animate On Scroll)
+🔗 https://michalsnik.github.io/aos/
+
+🎯 AOS – Animate Elements on Scroll with Ease
+AOS (Animate On Scroll) is a lightweight JavaScript library that allows developers to add smooth, eye-catching animations to elements as users scroll through a webpage. It enhances user experience by making websites more interactive and visually engaging without complex coding.
+
+📁 What You Can Do:
+
+Animate elements when they enter the viewport on scroll
+
+Apply effects like fade, zoom, flip, and slide
+
+Control animation duration, delay, and easing
+
+Trigger animations again when scrolling back
+
+Customize animation behavior using simple HTML attributes
+
+Easily integrate with React, Vue, Angular, or plain JavaScript
+
+💡 Purpose:
+AOS is designed to make web pages more dynamic and engaging by adding scroll-based animations. It helps developers improve UI/UX by drawing attention to important content and creating smooth visual transitions without heavy libraries.
+
+🛠 Ideal For:
+
+Frontend developers building modern, interactive websites
+
+Landing pages, portfolios, and product showcases
+
+Developers who want quick animations without complex setup
+
+Designers enhancing visual storytelling through motion
+
+✅ How to Use:
+
+Visit the AOS website
+
+Install via CDN, npm, or download files
+
+Add data-aos="animation-name" to HTML elements
+
+Initialize the library using JavaScript
+
+Customize animations using additional attributes
+
+✨ AOS: Bring your website to life as users scroll.
