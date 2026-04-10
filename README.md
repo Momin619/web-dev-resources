@@ -1,38 +1,39 @@
-# Web Dev Resources
+# devkit
 
-A curated collection of web development resources, tools, documentation, APIs, and learning materials organized in a structured and scalable format.
+A curated developer toolkit containing programming resources, documentation, tools, APIs, and learning materials organized in a structured and scalable format.
 
-This repository is designed as a personal knowledge base and developer reference hub.
+This repository is designed as a personal knowledge base and long-term reference system for developers across different domains.
 
 ---
 
 ## 📁 Project Structure
 
-resources/ → Tools, libraries, APIs, extensions, and external utilities
-
-docs/ → Programming knowledge, cheat sheets, and learning materials
+resources/ → Tools, libraries, APIs, extensions, and external utilities  
+docs/ → Programming knowledge, cheat sheets, and reference materials  
+knowledge/ → Concept explanations, notes, and learning insights
 
 ---
 
 ## 📚 What This Repo Contains
 
-- Frontend tools and libraries
-- Backend APIs and resources
-- Developer utilities and extensions
-- Programming language notes
-- JavaScript cheatsheets and one-liners
-- Learning platforms and references
+- Programming tools and utilities
+- APIs and external services
+- Developer extensions and productivity tools
+- Language-specific notes and references
+- Cheat sheets and quick reference guides
+- Learning platforms and educational resources
 
 ---
 
 ## 🎯 Purpose
 
-The goal of this repository is to:
+The goal of devkit is to:
 
-- Collect useful developer resources in one place
-- Create a structured learning and reference system
-- Avoid repeatedly searching the same information
-- Build a long-term developer knowledge base
+- Organize useful technical resources in one place
+- Build a structured and scalable knowledge system
+- Reduce repetitive searching for tools and references
+- Maintain a long-term learning and reference hub
+- Improve productivity and information accessibility
 
 ---
 
@@ -40,25 +41,6 @@ The goal of this repository is to:
 
 Clone the repository:
 
-git clone https://github.com/Momin619/web-dev-resources.git
-
-Browse folders based on category:
-
-- resources/ → tools and platforms
-- docs/ → programming knowledge
-
----
-
-## 📌 Contribution
-
-See CONTRIBUTING.md for guidelines on how to add new resources.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-Maintainer: @Momin619
+```bash
+git clone https://github.com/Momin619/devkit.git
+```
