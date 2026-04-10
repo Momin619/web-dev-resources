@@ -1,25 +1,64 @@
-# 🌐 Web Dev Resources
+# Web Dev Resources
 
-A collection of descriptions for useful web resources like APIs, tools, and websites for developers. 🚀
+A curated collection of web development resources, tools, documentation, APIs, and learning materials organized in a structured and scalable format.
 
-## 📂 Structure
+This repository is designed as a personal knowledge base and developer reference hub.
 
-The repository contains folders with `.txt` files, each summarizing various web resources, organized for quick reference and easy access. 📑
+---
 
-## 🛠️ Examples of Resources Included:
-- 🧑‍💻 **APIs**
-- 🔧 **Developer Tools**
-- 🌍 **Helpful Websites**
+## 📁 Project Structure
 
-## 🔍 How to Use
+resources/ → Tools, libraries, APIs, extensions, and external utilities
 
-- Browse through the folders and `.txt` files to explore the resources. 📂
-- Each file contains a brief description and key details about the resource. 📝
+docs/ → Programming knowledge, cheat sheets, and learning materials
 
-## 🤝 Contributing
+---
 
-Feel free to fork the repo and add new resources by submitting a pull request. 🚀
+## 📚 What This Repo Contains
 
-## 📜 License
+- Frontend tools and libraries
+- Backend APIs and resources
+- Developer utilities and extensions
+- Programming language notes
+- JavaScript cheatsheets and one-liners
+- Learning platforms and references
 
-This project is open-source and free to use. 🌟
+---
+
+## 🎯 Purpose
+
+The goal of this repository is to:
+
+- Collect useful developer resources in one place
+- Create a structured learning and reference system
+- Avoid repeatedly searching the same information
+- Build a long-term developer knowledge base
+
+---
+
+## 🚀 How to Use
+
+Clone the repository:
+
+git clone https://github.com/Momin619/web-dev-resources.git
+
+Browse folders based on category:
+
+- resources/ → tools and platforms
+- docs/ → programming knowledge
+
+---
+
+## 📌 Contribution
+
+See CONTRIBUTING.md for guidelines on how to add new resources.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Maintainer: @Momin619

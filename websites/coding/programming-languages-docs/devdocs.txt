@@ -1,3 +1,0 @@
-DevDocs is an online reference that gathers documentation for many programming languages, libraries, and tools in one place. You can search syntax, functions, classes — everything you need — without having to switch between multiple sites. It also supports offline use, so once downloaded, you can browse docs even without internet.
-
-URL: https://devdocs.io/
